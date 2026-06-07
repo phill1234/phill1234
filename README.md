@@ -9,10 +9,11 @@ I run my own set of side projects — from a gaming book club to an MMO — and 
 
 ## 🚀 Currently Building
 
-### [Deploy Your Startup](https://github.com/Deploy-your-Startup)
-An open source CLI + Kubernetes-based deployment framework to bootstrap and ship Django-powered startups — from zero to production.
+### [Deploy Your Startup](https://deploy-your-startup.com)
+Opinionated, AI-ready tooling that takes solo founders and small teams from zero to a running production cluster in minutes — one framework or a full monorepo, shipped as code into your own repo. One command today, a whole startup factory tomorrow.
+→ [github.com/Deploy-your-Startup](https://github.com/Deploy-your-Startup)
 
-Active projects: [aboutphil.de](https://aboutphil.de) · [gamingbuchclub.com](https://gamingbuchclub.com)
+Active projects: [deploy-your-startup.com](https://deploy-your-startup.com) · [aboutphil.de](https://aboutphil.de) · [gamingbuchclub.com](https://gamingbuchclub.com)
 
 ---
 
